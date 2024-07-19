@@ -1,0 +1,41 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .expense-list {
+    margin-top: 20px;
+  }
+  
+  .expense-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+  }
+  
+  .expense-item span {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .expense-item span:last-child {
+    text-align: right;
+  }
+  
