@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asmit23.github.io/Expense-Tracker",
+  "homepage": "https://github.com/asmit23/Expense-Tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
